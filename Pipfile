@@ -9,6 +9,9 @@ verify_ssl = true
 torch = "*"
 torchvision = "*"
 matplotlib = "*"
+opencv-python = "*"
+numpy = "*"
+tqdm = "*"
 
 [requires]
 python_version = "3.6"
